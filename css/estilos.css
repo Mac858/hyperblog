@@ -50,3 +50,11 @@ body
     background: white;
     padding: 1em;
 }
+
+#footer
+{
+    background: lightpink;
+    lighting-color: #5555;
+    color: : white;
+    text-align: center;
+}
